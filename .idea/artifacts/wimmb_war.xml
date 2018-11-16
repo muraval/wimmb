@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="wimmb:war">
-    <output-path>$PROJECT_DIR$/wimmb/target</output-path>
-    <root id="archive" name="wimmb.war">
-      <element id="artifact" artifact-name="wimmb:war exploded" />
-    </root>
-  </artifact>
-</component>
